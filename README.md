@@ -1,1 +1,1 @@
-Sample for Dynamo application by go
+Sample of Dynamo application by go
