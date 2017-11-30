@@ -1,0 +1,1 @@
+Sample for Dynamo application by go
